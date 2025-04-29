@@ -1,10 +1,13 @@
-<h1>Hi 👋, I'm Cărbune Ecaterina</h1>
+![image](https://github.com/user-attachments/assets/a163591c-8df9-439e-b727-b2d5b3c48217)<h1>Hi 👋, I'm Cărbune Ecaterina</h1>
 <h3>A passionate computer science student</h3>
 
 - 🎓 Currently studying Computer Science at Babeș-Bolyai University  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ecaterina-carbune-67061b339), [Email](mailto:ecaterina.carbune@stud.ubbcluj.ro)
 
+<hr>
+
 ## 🖥️ Languages & Technologies:
+
 ### 📌 Programming Languages:
 <table>
   <tr>
@@ -21,6 +24,8 @@
   <tr>
     <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
+        <td align="center"><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a></td>
   </tr>
 </table>
 
@@ -28,10 +33,15 @@
 <table>
   <tr>
     <td align="center"><a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.qt.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40"/></a></td></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.qt.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</a></td>
   </tr>
 </table>
+
+<hr>
 
 ## 🗄️ Databases:
 <table>
@@ -41,6 +51,8 @@
     <td align="center"><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a></td>
   </tr>
 </table>
+
+<hr>
 
 ## 🔧 Scripting & Shells:
 <table>
