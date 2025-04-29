@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a163591c-8df9-439e-b727-b2d5b3c48217)<h1>Hi 👋, I'm Cărbune Ecaterina</h1>
+<h1>Hi 👋, I'm Cărbune Ecaterina</h1>
 <h3>A passionate computer science student</h3>
 
 - 🎓 Currently studying Computer Science at Babeș-Bolyai University  
