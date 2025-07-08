@@ -3,7 +3,7 @@
 
 - 🎓 Currently studying Computer Science at Babeș-Bolyai University  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ecaterina-carbune-67061b339), [Email](mailto:ecaterina.carbune@stud.ubbcluj.ro)
-- 🐞 Currently working on: [ArchitetureChatBot](https://github.com/Paauull12/SystemArchitectureChatBot).
+- 🐞 Currently working on: [SkillUp](https://github.com/CarbuneEcaterina/SkillUp).
 
 <hr>
 
