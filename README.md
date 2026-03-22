@@ -3,8 +3,7 @@
 - 🎓 Currently studying Computer Science at Babeș-Bolyai University  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ecaterina-carbune-67061b339), [Email](mailto:ecaterina.carbune@stud.ubbcluj.ro)
 - 💡 Passionate about building software that solves real problems
-- 🌱 Currently exploring robotics (ROS), mobile development, and distributed systems
-- 🗣️ Romanian (Fluent) · English (Fluent) · French (Intermediate)
+- 🌱 Currently exploring robotics (ROS) and mobile development
 
 ---
 
